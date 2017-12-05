@@ -1,7 +1,6 @@
 # Überschrift 1
 ## Andere Überschrift
 ### Noch kleinere Überschrift
-...
 Ein bisschen Text einfach so
 + Listenelement 1
 + Listenelement 2
